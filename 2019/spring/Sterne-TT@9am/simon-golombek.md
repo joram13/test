@@ -11,7 +11,7 @@ __This year, I have the following courses:__
 * *CS156*
 * *CS162*
 
-**These are the ones I like the most**
+**These are the ones I like the most:**
 
 1. CS162/CS156
 2. CS111B
